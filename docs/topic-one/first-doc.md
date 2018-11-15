@@ -8,4 +8,5 @@ description: First doc description
 It has some content in it.
 
 - [Link to topic 2](../topic-two)
-- [Link to item in topic 3](../topic-two/second-doc.md)
+- [Link to topic 2 readme (should be same)](../topic-two/README.md)
+- [Link to item in topic 2](../topic-two/second-doc.md)
