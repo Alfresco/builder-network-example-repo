@@ -10,6 +10,6 @@ libero. Vestibulum mollis mauris enim. Morbi euismod magna ac.
 - [Link outside of /docs](../README.md)
 - [Topic one](topic-one)
 - [Topic one readme](topic-one/README.md)
-- [Topic two](topic two)
+- [Topic two](topic%20two)
 - [Topic three](topic-three)
 - [Topic four](topic-four)
