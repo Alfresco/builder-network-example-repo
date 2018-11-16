@@ -1,1 +1,0 @@
-This document is buried inside a directory that is not specified in the file tree.
