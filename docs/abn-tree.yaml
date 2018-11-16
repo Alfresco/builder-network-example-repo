@@ -7,7 +7,7 @@
         - first-subtopic-doc.md:
             title: 'Hidden Secrets'
     - first-doc.md: 'First document'
-- topic-two: 'Two'
+- 'topic two': 'Two'
 - topic-three:
     title: 'Three'
     children:
