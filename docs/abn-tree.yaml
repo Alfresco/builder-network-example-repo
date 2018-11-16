@@ -1,22 +1,19 @@
-topic-one:
-  title: One
-  children:
-    subtopic-one:
-      title: 'First subtopic'
-      children:
-        first-subtopic-doc.md:
-          title: 'Hidden Secrets'
-    first-doc.md: 'First document'
-topic-two:
-  title: 'Two'
-  children:
-    second-doc.md: 'Second document'
-topic-three:
-  title: 'Three'
-  children:
-    third-doc.md: '3rd document'
-topic-four:
-  title: 'Four'
-  children:
-    fourth-foc.md: Fourth
-fifth.md: 5
+- topic-one:
+    title: One
+    children:
+    - subtopic-one:
+        title: 'First subtopic'
+        children:
+        - first-subtopic-doc.md:
+            title: 'Hidden Secrets'
+    - first-doc.md: 'First document'
+- topic-two: 'Two'
+- topic-three:
+    title: 'Three'
+    children:
+    - third-doc.md: '3rd document'
+- topic-four:
+    title: 'Four'
+    children:
+    - fourth-foc.md: Fourth
+- fifth.md: 5
