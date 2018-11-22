@@ -1,3 +1,7 @@
+---
+title: Topic two (frontmatter)
+---
+
 # Topic two index page
 
 It serves as a sub-index page of sorts.
