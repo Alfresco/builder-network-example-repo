@@ -8,6 +8,9 @@
             title: 'Hidden Secrets'
     - first-doc.md: 'First document'
 - 'topic two': 'Two'
+- 'Path to need 50% sluggification':
+    children:
+    - 'sluggification: definitely needed': 'Sluggify test'
 - topic-three:
     title: 'Three'
     children:
