@@ -1,6 +1,6 @@
 ---
-title: Topic one
-description: Topic one description
+Title: Topic one
+Description: Topic one description
 ---
 
 # Topic one index page

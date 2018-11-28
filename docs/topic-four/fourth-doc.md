@@ -1,6 +1,6 @@
 ---
-title: Fourth doc title
-description: Fourth doc description
+Title: Fourth doc title
+Description: Fourth doc description
 ---
 
 # This is my fourth doc

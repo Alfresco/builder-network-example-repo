@@ -1,6 +1,6 @@
 ---
-title: Sub topic one
-description: Sub topic one description
+Title: Sub topic one
+Description: Sub topic one description
 ---
 
 # Sub Topic one index page

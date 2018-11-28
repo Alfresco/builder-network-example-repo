@@ -1,5 +1,5 @@
 ---
-title: Topic two (frontmatter)
+Title: Topic two (frontmatter)
 ---
 
 # Topic two index page

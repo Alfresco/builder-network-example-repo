@@ -1,6 +1,6 @@
 ---
-title: First doc title
-description: First doc description
+Title: First doc title
+Description: First doc description
 ---
 
 # This is my first doc

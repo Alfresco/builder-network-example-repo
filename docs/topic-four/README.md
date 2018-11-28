@@ -1,6 +1,6 @@
 ---
-title: Topic four
-description: Topic four description
+Title: Topic four
+Description: Topic four description
 ---
 
 # Topic four index page

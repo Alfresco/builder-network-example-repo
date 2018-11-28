@@ -1,6 +1,6 @@
 ---
-title: First subtopic doc title
-description: First subtopic doc description
+Title: First subtopic doc title
+Description: First subtopic doc description
 ---
 
 # This is my first subtopical doc

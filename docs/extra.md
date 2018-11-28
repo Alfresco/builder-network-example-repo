@@ -1,5 +1,5 @@
 ---
-title: Extra
+Title: Extra
 ---
 
 This extra document is not specified in the tree. It contains a link that would need sluggifying.

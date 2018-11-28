@@ -1,6 +1,6 @@
 ---
-title: Second doc title
-description: Second doc description
+Title: Second doc title
+Description: Second doc description
 ---
 
 # This is my second doc
