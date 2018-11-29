@@ -12,9 +12,9 @@ It has some content in it.
 - [Link to topic 3](../topic-three)
 - [Link to item in topic 3](../topic-three/third-doc.md)
 
-Also some `JS` code!
+Also some `javascript` code!
 
-```js
+```javascript
 module.exports = ({ node, getNode }) => {
   // Find the file node.
   let fileNode = node
@@ -39,7 +39,12 @@ module.exports = ({ node, getNode }) => {
 
   return fileNode
 }
+```
 
+And some code using `js` instead:
+
+```js
+  console.log('Hi mum!');
 ```
 
 And some Java:
