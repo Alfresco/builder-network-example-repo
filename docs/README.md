@@ -1,5 +1,7 @@
 # This is a readme for the docs.
 
+![Markdown Mark](assets/markdown.png)
+
 It serves as an index page of sorts.
 
 Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum
@@ -16,4 +18,3 @@ libero. Vestibulum mollis mauris enim. Morbi euismod magna ac.
 - [Topic two](topic%20two)
 - [Topic three](topic-three)
 - [Topic four](topic-four)
-
