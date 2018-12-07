@@ -15,8 +15,8 @@ libero. Vestibulum mollis mauris enim. Morbi euismod magna ac.
 - [First doc](first-doc.md)
 - [Relative link to here](./)
 - [Relative link to root fragment](../README.md#test)
-- [Fragment](../README.md#test)
-- [Auto-fragment header](#auto-link)
+- [Explicit fragment link](#test)
+- [Generated header fragment ID](#auto-link)
 
 Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum
 facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac
