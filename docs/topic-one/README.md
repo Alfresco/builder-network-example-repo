@@ -14,9 +14,11 @@ libero. Vestibulum mollis mauris enim. Morbi euismod magna ac.
 
 - [First doc](first-doc.md)
 - [Relative link to here](./)
-- [Relative link to root fragment](../README.md#test)
-- [Explicit fragment link](#test)
+- [Relative ID link to here](./#test)
+- [Bare fragment link](#test)
 - [Generated header fragment ID](#auto-link)
+- [Relative link to docs root fragment](../README.md#test)
+- [ID on page outside the docs folder](../../README.md#readme)
 
 Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum
 facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac
