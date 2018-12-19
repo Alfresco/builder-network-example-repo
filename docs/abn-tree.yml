@@ -20,3 +20,4 @@
     children:
     - fourth-foc.md: Fourth
 - fifth.md: 5
+- no-readme: No index/readme
