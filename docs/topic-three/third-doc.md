@@ -5,7 +5,9 @@ Description: Third doc description
 
 # This is my third doc
 
-It has some content in it.
+It has some content in it, and an image below this line.
+
+![Monkey](images/bald-monkey.gif)
 
 - [Link to topic 2](../topic%20two)
 - [Link to item in topic 2](../topic%20two/second%20doc.md)
