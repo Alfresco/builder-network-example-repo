@@ -8,7 +8,10 @@ Description: Third doc description
 It has some content in it, and an image below this line.
 
 ![Monkey](images/bald-monkey.gif)
-![Animated gif](images/lightbulb.gif)
+
+![Small but animated gif](images/lightbulb.gif)
+
+![Large static gif](images/elephants.gif)
 
 - [Link to topic 2](../topic%20two)
 - [Link to item in topic 2](../topic%20two/second%20doc.md)
