@@ -1,6 +1,7 @@
 ---
 Title: Minimal example
 Description: Ensures the schema is populated fully.
+Image: green.png
 Github only: true
 ---
 
